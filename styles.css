@@ -1,0 +1,13 @@
+.image{
+    background-color: rgb(141, 83, 83);
+    display: block;
+}
+.content{
+    background-color: beige;
+    margin:50px;
+   
+}
+h1,h2,.image{
+    text-align: center;
+    margin:0px;
+}
